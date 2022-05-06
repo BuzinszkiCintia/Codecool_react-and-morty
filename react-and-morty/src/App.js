@@ -11,8 +11,16 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/characters" element={<Characters />} />
+        <Route
+          path="
+/Codecool_react-and-morty/"
+          element={<Home />}
+        />
+        <Route
+          path="/
+Codecool_react-and-morty/characters"
+          element={<Characters />}
+        />
         <Route path="/locations" element={<Locations />} />
         <Route path="/character/:id" element={<CharacterDataDisplay />} />
         <Route path="/location/:id" element={<LocationDataDisplay />} />

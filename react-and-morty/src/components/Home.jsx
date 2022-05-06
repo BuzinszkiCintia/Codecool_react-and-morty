@@ -9,7 +9,11 @@ const Home = () => {
       <Background />
       <Logo src={logo} />
       <Wrapper>
-        <Link className="HomeLink" to="/characters">
+        <Link
+          className="HomeLink"
+          to="/
+Codecool_react-and-morty/characters"
+        >
           Characters
         </Link>
         <Link className="HomeLink" to="/locations">
