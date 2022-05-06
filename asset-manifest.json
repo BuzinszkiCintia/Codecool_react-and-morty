@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Codecool_react-and-morty/static/css/main.1521aac0.css",
-    "main.js": "/Codecool_react-and-morty/static/js/main.89b8a93d.js",
+    "main.js": "/Codecool_react-and-morty/static/js/main.e7028985.js",
     "static/media/location_background.png": "/Codecool_react-and-morty/static/media/location_background.e2e68c9abe9194ab54b2.png",
     "static/media/character_background.png": "/Codecool_react-and-morty/static/media/character_background.15e8a9ed7881f7761a73.png",
     "static/media/background.jpg": "/Codecool_react-and-morty/static/media/background.153f4dbe3c627de6c823.jpg",
@@ -10,10 +10,10 @@
     "static/media/logo.png": "/Codecool_react-and-morty/static/media/logo.df73b7db546a5a50f92d.png",
     "index.html": "/Codecool_react-and-morty/index.html",
     "main.1521aac0.css.map": "/Codecool_react-and-morty/static/css/main.1521aac0.css.map",
-    "main.89b8a93d.js.map": "/Codecool_react-and-morty/static/js/main.89b8a93d.js.map"
+    "main.e7028985.js.map": "/Codecool_react-and-morty/static/js/main.e7028985.js.map"
   },
   "entrypoints": [
     "static/css/main.1521aac0.css",
-    "static/js/main.89b8a93d.js"
+    "static/js/main.e7028985.js"
   ]
 }
