@@ -18,12 +18,21 @@ function App() {
         />
         <Route
           path="/
-Codecool_react-and-morty/characters"
+Codecool_react-and-morty/characters/"
           element={<Characters />}
         />
-        <Route path="/locations" element={<Locations />} />
-        <Route path="/character/:id" element={<CharacterDataDisplay />} />
-        <Route path="/location/:id" element={<LocationDataDisplay />} />
+        <Route
+          path="/Codecool_react-and-morty/locations/"
+          element={<Locations />}
+        />
+        <Route
+          path="/Codecool_react-and-morty/character/:id/"
+          element={<CharacterDataDisplay />}
+        />
+        <Route
+          path="/Codecool_react-and-morty/location/:id/"
+          element={<LocationDataDisplay />}
+        />
       </Routes>
     </Router>
   );
