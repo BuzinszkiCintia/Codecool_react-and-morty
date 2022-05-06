@@ -9,32 +9,30 @@ import LocationDataDisplay from "./components/LocationDisplay/LocationDataDispla
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route
-          path="
+    <Routes>
+      <Route
+        path="
 /Codecool_react-and-morty/"
-          element={<Home />}
-        />
-        <Route
-          path="/
+        element={<Home />}
+      />
+      <Route
+        path="/
 Codecool_react-and-morty/characters"
-          element={<Characters />}
-        />
-        <Route
-          path="/Codecool_react-and-morty/locations"
-          element={<Locations />}
-        />
-        <Route
-          path="/Codecool_react-and-morty/character/:id"
-          element={<CharacterDataDisplay />}
-        />
-        <Route
-          path="/Codecool_react-and-morty/location/:id"
-          element={<LocationDataDisplay />}
-        />
-      </Routes>
-    </Router>
+        element={<Characters />}
+      />
+      <Route
+        path="/Codecool_react-and-morty/locations"
+        element={<Locations />}
+      />
+      <Route
+        path="/Codecool_react-and-morty/character/:id"
+        element={<CharacterDataDisplay />}
+      />
+      <Route
+        path="/Codecool_react-and-morty/location/:id"
+        element={<LocationDataDisplay />}
+      />
+    </Routes>
   );
 }
 
