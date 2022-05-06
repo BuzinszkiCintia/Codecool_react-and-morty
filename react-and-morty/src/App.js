@@ -13,12 +13,12 @@ function App() {
       <Routes>
         <Route
           path="
-/Codecool_react-and-morty/"
+/Codecool_react-and-morty"
           element={<Home />}
         />
         <Route
           path="/
-Codecool_react-and-morty/characters/"
+Codecool_react-and-morty/characters"
           element={<Characters />}
         />
         <Route

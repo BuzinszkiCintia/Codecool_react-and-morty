@@ -12,7 +12,7 @@ const Home = () => {
         <Link
           className="HomeLink"
           to="/
-Codecool_react-and-morty/characters/"
+Codecool_react-and-morty/characters"
         >
           Characters
         </Link>
