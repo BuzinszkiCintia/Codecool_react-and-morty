@@ -13,7 +13,7 @@ function App() {
       <Routes>
         <Route
           path="
-/Codecool_react-and-morty"
+/Codecool_react-and-morty/"
           element={<Home />}
         />
         <Route
@@ -22,15 +22,15 @@ Codecool_react-and-morty/characters"
           element={<Characters />}
         />
         <Route
-          path="/Codecool_react-and-morty/locations/"
+          path="/Codecool_react-and-morty/locations"
           element={<Locations />}
         />
         <Route
-          path="/Codecool_react-and-morty/character/:id/"
+          path="/Codecool_react-and-morty/character/:id"
           element={<CharacterDataDisplay />}
         />
         <Route
-          path="/Codecool_react-and-morty/location/:id/"
+          path="/Codecool_react-and-morty/location/:id"
           element={<LocationDataDisplay />}
         />
       </Routes>

@@ -16,7 +16,7 @@ Codecool_react-and-morty/characters"
         >
           Characters
         </Link>
-        <Link className="HomeLink" to="/Codecool_react-and-morty/locations/">
+        <Link className="HomeLink" to="/Codecool_react-and-morty/locations">
           {" "}
           Locations
         </Link>
